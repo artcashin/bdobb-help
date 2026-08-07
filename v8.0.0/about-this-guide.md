@@ -20,4 +20,4 @@ Episode 4 ("Same Blueprint, Two Builders") is a development-process retrospectiv
 Original drafts live in `~/Developer/substack-articles/` on the machine this guide was generated from.
 
 ---
-*Screenshots in this guide are copied from the corresponding episode's `screenshots/` folder. Where an episode's screenshots don't yet exist (Eps. 6, 7, 9) or the feature hasn't shipped (Eps. 10–11), the relevant help pages are text-only.*
+*Screenshots in this guide are copied from the corresponding episode's `screenshots/` folder. Where an episode's screenshots don't yet exist (Eps. 6, 7), the relevant help pages are text-only.*

@@ -5,7 +5,7 @@ tags: [bdobb, help, troubleshooting, infrastructure, openbb-docker, tailscale]
 
 # Troubleshooting: Configuring the Infrastructure
 
-Symptom-first index of issues in the backend services BDOBB connects to — openbb-docker, rss-ticker, the live-quotes/EODHD service, Rita/MCP, and Tailscale networking. These are all fixed server-side, not inside the BDOBB app. For app-side issues (iPad builds, settings, install), see [[troubleshooting-using-bdobb|Using BDOBB]].
+Symptom-first index of issues in the backend services BDOBB connects to — openbb-docker, rss-ticker, Rita/MCP, and Tailscale networking. These are all fixed server-side, not inside the BDOBB app. For app-side issues (iPad builds, settings, install), see [[troubleshooting-using-bdobb|Using BDOBB]].
 
 ## AI Chat / Rita Backend
 
