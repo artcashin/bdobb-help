@@ -32,5 +32,5 @@ With kernel networking, a loopback bind actually means loopback — a direct req
 **Verify this on every service you run behind a sidecar**, not just once. The check is one command: send a request with a forged identity header straight to the node's tailnet IP, bypassing Serve, and confirm it's refused. Don't trust the sidecar's documented behavior — verify the door, not the lock's spec sheet.
 
 ---
-*Source: Adventures in OpenBB, Ep. 6 — "The Analyst Who Never Leaves the Building"; Ep. 9 — "The Tape Comes to the Closet."*
+*Source: Adventures in OpenBB, Ep. 6 — "The Analyst Who Never Leaves the Building"; Ep. 8 — "All the News That Fits, We Print."*
 *See also: [[rita-ai-agent-setup|Setting Up the Rita AI Agent]] · [[troubleshooting-infrastructure|Configuring the Infrastructure]]*
