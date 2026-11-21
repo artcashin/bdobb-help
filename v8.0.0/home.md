@@ -20,7 +20,9 @@ BDOBB (Better Desktop for OpenBB) is a private desktop app for OpenBB-compatible
 
 ## Widgets
 
-- [[news-ticker|News Ticker]] — the Bloomberg-style headline wire
+- [[news-widget|News Ticker]] — the Bloomberg-style headline wire
+- [[live-tv|Live TV]] — inline YouTube streams and incoming Chrome floating-player grab
+- [[picture-in-picture|Picture in Picture]] — desktop placement, ownership and platform limits
 - [[ai-chat|AI Chat]] — talking to a private AI agent about your dashboards
 
 ## Configuration

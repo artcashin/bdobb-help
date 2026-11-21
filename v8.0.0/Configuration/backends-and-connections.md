@@ -14,7 +14,7 @@ For the basic add-a-backend flow, see [[connecting-a-backend|Connecting a Backen
 | Backend | What goes in the API key field |
 |---|---|
 | General OpenBB Platform / reference backend | Whatever key scheme that specific backend requires, if any — the reference backend needs none. |
-| [[news-ticker\|News ticker]] (rss-ticker) | The **manifest key** — never the admin key. See [[secrets-and-access\|Secrets and Access]]. |
+| [[news-widget\|News]] / [[live-tv\|Live TV]] (rss-ticker) | No API key. News uses its server parameter; Live TV is added through a keyless backend connection. Keep the service private to the tailnet. |
 | [[ai-chat\|AI agent]] (Rita) | Configured on the agent side, not per-dashboard — see [[rita-ai-agent-setup\|Setting Up the Rita AI Agent]]. |
 
 ## Reachability as the credential
